@@ -15,6 +15,10 @@
 * Uso de Mocha y Chai
 * Uso de Gulp
 
+### Instalación de Web Developer
+
+![](images_readme/web-developer.png)
+
 ### Despliegue en github.io
 
 URL: http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-edda/
