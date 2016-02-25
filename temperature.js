@@ -4,7 +4,6 @@ function calculate() {
   var temp = original.value;
   var regexp = /^\s*([-+]?\d+(?:\.\d*)?(?:[eE][-+]?\d+)?)\s*([fFcC])((?:[eE](?:[lL](?:[sS](?:[iI](?:[uU](?:[sS])?)?)?)?)?)|(?:[aA](?:[rR](?:[eE](?:[nN](?:[hH](?:[eE](?:[iI](?:[tT])?)?)?)?)?)?)?))?\s*$/;
   var m = temp.match(regexp);
-  var m = temp.match(regexp);
 
   if (m) {
     var num = m[1];
