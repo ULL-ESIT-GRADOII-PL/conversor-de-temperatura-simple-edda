@@ -25,8 +25,9 @@ URL: http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-edda/
 
 ### Ejecutar las pruebas
 
-URL: En construcción
+URL: En construcción 
 
 ### Enlaces de interes
 * URL del miembro Eduardo Escobar: http://alu0100825985.github.io./
 * URL del miembro Daniel Fernández: http://alu0100812534.github.io./
+* URL del campus virtual de la asignatura: https://campusvirtual.ull.es/1516/course/view.php?id=178
